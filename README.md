@@ -1,22 +1,3 @@
-# next-template
+# [Next.js](https://nextjs.org/) v13 (w/ App Router) + [TypeScript](https://www.typescriptlang.org/) + ConnectKit + [Shadcn](https://ui.shadcn.com/docs) Example
 
-A Next.js 13 template for building apps with Radix UI and Tailwind CSS.
-
-## Usage
-
-```bash
-npx create-next-app -e https://github.com/shadcn/next-template
-```
-
-## Features
-
-- Next.js 13 App Directory
-- Radix UI Primitives
-- Tailwind CSS
-- Icons from [Lucide](https://lucide.dev)
-- Dark mode with `next-themes`
-- Tailwind CSS class sorting, merging and linting.
-
-## License
-
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+This is a simple example of how to implement ConnectKit's Sign In With Ethereum functionality with the new [Next.js](https://nextjs.org/) App Router in TypeScript + shadcn/ui
